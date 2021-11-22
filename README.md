@@ -1,0 +1,1 @@
+This project is about recipes. I make it to practise HTML basics as part of the Odin Project curriculum.
