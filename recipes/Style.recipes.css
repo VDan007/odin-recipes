@@ -1,0 +1,17 @@
+img{
+    height:auto;
+    width:50%;
+
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ul{
+    background-color: green;
+    color:white;
+}
+ol{
+    background-color:red;
+    color:black;
+}
